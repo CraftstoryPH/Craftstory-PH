@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+footer{text-align:center;padding:25px;background:#111;color:white;margin-top:40px}
+</style>
+</head>
+<body>
+
+<header>
+<h2>CRAFTSTORY</h2>
+<p>Creative 3D Printed Creations</p>
+</header>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#shop">Shop</a>
+<a href="#gallery">Gallery</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="home" class="hero">
+<h1>Welcome to CRAFTSTORY</h1>
+<p>Unique 3D printed items crafted with creativity and precision.</p>
+<p>Message us directly to place your order.</p>
+</section>
+
+<section id="shop" class="products">
+
+<div class="card">
+<img src="https://via.placeholder.com/300" alt="product">
+<h3>3D Printed Item</h3>
+<p>Custom Design</p>
+<button onclick="order('3D Printed Item')">Message to Order</button>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/300" alt="product">
+<h3>Desk Decor</h3>
+<p>Modern Style</p>
+<button onclick="order('Desk Decor')">Message to Order</button>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/300" alt="product">
+<h3>Custom Print</h3>
+<p>Made to Order</p>
+<button onclick="order('Custom Print')">Message to Order</button>
+</div>
+
+</section>
+
+<section id="gallery" class="gallery">
+<img src="https://via.placeholder.com/400">
+<img src="https://via.placeholder.com/400">
+<img src="https://via.placeholder.com/400">
+<img src="https://via.placeholder.com/400">
+</section>
+
+<section id="about" class="section">
+<h2>About CRAFTSTORY</h2>
+<p>CRAFTSTORY is a creative 3D printing shop focused on producing unique designs, custom creations, and functional prints. Each product is carefully crafted using modern 3D printing technology.</p>
+</section>
+
+<section class="section">
+<h2>Customer Reviews</h2>
+<div class="review">⭐️⭐️⭐️⭐️⭐️ Amazing quality prints!</div>
+<div class="review">⭐️⭐️⭐️⭐️⭐️ Fast and very creative designs.</div>
+</section>
+
+<section id="contact" class="section">
+<h2>Contact Us</h2>
+<p>Order through TikTok or send us a message.</p>
+<p>Email: your@email.com</p>
+<p>TikTok: @yourtiktok</p>
+<p>Location: Your Shop Address</p>
+</section>
+
+<footer>
+<p>© 2026 CRAFTSTORY</p>
+</footer>
+
+<script>
+function order(product){
+alert('You selected: '+product+'\nMessage CRAFTSTORY on TikTok to order.');
+}
+</script>
+
+</body>
+</html>
