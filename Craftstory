@@ -1,0 +1,67 @@
+<section id="shop" class="products">
+
+<div class="card">
+<img src="https://via.placeholder.com/400">
+<h3>Custom NFC Pet Tag</h3>
+<p>₱720 (₱345 without NFC)</p>
+<p>Tap with phone to show pet info.</p>
+<button onclick="order('Custom NFC Pet Tag')">Order via TikTok</button>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/400">
+<h3>Custom Bag Tag</h3>
+<p>₱780 (₱365 without NFC)</p>
+<p>Attach to bags. Tap to show owner info.</p>
+<button onclick="order('Custom Bag Tag')">Order via TikTok</button>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/400">
+<h3>NFC Music Keychain</h3>
+<p>₱645</p>
+<p>Tap phone to play a special song.</p>
+<button onclick="order('NFC Music Keychain')">Order via TikTok</button>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/400">
+<h3>Personalized Name Tags</h3>
+<p>Starting ₱85</p>
+<p>Custom name keychains and tags.</p>
+<button onclick="order('Name Tag')">Order via TikTok</button>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/400">
+<h3>Fidget Toys</h3>
+<p>Customizable</p>
+<p>Fun and satisfying 3D printed toys.</p>
+<button onclick="order('Fidget Toy')">Order via TikTok</button>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/400">
+<h3>Educational Toys</h3>
+<p>Learning toys for kids</p>
+<p>Interactive learning prints.</p>
+<button onclick="order('Educational Toy')">Order via TikTok</button>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/400">
+<h3>Fandom Items</h3>
+<p>Custom designs</p>
+<p>Movie, anime, and series themed prints.</p>
+<button onclick="order('Fandom Item')">Order via TikTok</button>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/400">
+<h3>Decor & Desk Items</h3>
+<p>Vases, holders, puzzles</p>
+<p>Functional 3D printed decor.</p>
+<button onclick="order('Decor Item')">Order via TikTok</button>
+</div>
+
+</section>
